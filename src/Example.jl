@@ -1,5 +1,5 @@
 module Example
 
-greet() = print("Hello World!")
+    include("function.jl")
 
 end # module
