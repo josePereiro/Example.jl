@@ -1,5 +1,5 @@
 module Example
 
-    include("function.jl")
+    greet() = println("Hi")
 
 end # module
