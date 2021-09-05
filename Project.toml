@@ -1,7 +1,7 @@
 name = "Example"
 uuid = "e83e49e0-9c73-11ea-0f72-7b2612c12766"
 authors = ["josePereiro"]
-version = "3.4.18"
+version = "3.4.19"
 
 [compat]
 julia = "1.1"
