@@ -1,8 +1,0 @@
-# This file is machine-generated - editing it directly is not advised
-
-[[Example]]
-git-tree-sha1 = "01f5de4c7169f752eaadac1129283643f7b26197"
-repo-rev = "master"
-repo-url = "https://github.com/josePereiro/Example.jl"
-uuid = "e83e49e0-9c73-11ea-0f72-7b2612c12766"
-version = "1.0.1"
